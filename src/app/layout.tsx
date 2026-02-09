@@ -6,7 +6,7 @@ import AccessibilityControls from '@/components/AccessibilityControls';
 
 export const metadata: Metadata = generateMetadata({
   title: 'Çıplak Gösteren Gözlükler - İshak Alper',
-  description: 'Hakkâri Yeşiltaş köyünde doğan İshak Alper\'in görme engeliyle şekillenen yaşam öyküsü ve içgörülerini anlatan derin bir otobiyografi.',
+  description: 'Gerçeği görmek cesaret ister. İshak Alper\'in benzersiz bakış açısıyla, hayatın derinliklerine inen, kişisel dönüşüm ve içsel yolculuklara rehberlik eden eserler.',
   url: '/',
   type: 'website'
 });

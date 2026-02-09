@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://ciplakgosterengozlukler.com/sitemap.xml
+Sitemap: https://cplak-gozlukler-website.manus.space/sitemap.xml
 
 # Disallow admin and API routes
 Disallow: /api/
